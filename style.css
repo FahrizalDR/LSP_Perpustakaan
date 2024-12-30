@@ -1,0 +1,16 @@
+.custom-active.active {
+    background-color: black !important; /* Warna latar belakang hitam */
+    color: white !important; /* Warna teks putih atau sesuai keinginan */
+}
+
+.logout{
+    background-color: red;
+    color: white; /* Agar teks terlihat jelas */
+    font-weight: bold; /* Opsional: untuk mempertegas */
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
