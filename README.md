@@ -3,11 +3,11 @@ Website ini memungkinkan pengguna untuk melihat katalog buku, meminjam buku, dan
 
 ## Conceptual Data Model (CDM)
 Berikut ini adalah CDM yang digunakan dalam website perpustakaan.
-![CDM]( Dokumen tambahan/CDM.jpg)
+![CDM](CDM.jpg)
 
 ## Physical Data Model (PDM)
 Berikut ini adalah PDM yang digunakan dalam website perpustakaan.
-![PDM]( Dokumen tambahan/PDM.jpg)
+![PDM](PDM.jpg)
 
 ## Fitur
 1. **Login**
@@ -30,8 +30,8 @@ Berikut ini adalah PDM yang digunakan dalam website perpustakaan.
 ## User Testing Scenario
 ### Admin
 Berikut user testing scenario untuk Admin.
-![Admin Testing]( Dokumen tambahan/AdminScenario.jpg)
+![Admin Testing](AdminScenario.jpg)
 
 ### Member
 Berikut user testing scenario untuk Member.
-![Member Testing]( Dokumen tambahan/MemberScenario.jpg)
+![Member Testing](MemberScenario.jpg)
