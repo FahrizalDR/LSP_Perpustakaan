@@ -3,14 +3,17 @@ Website ini memungkinkan admin dapat mengelola katalog buku, daftar anggota, mem
 
 ## Conceptual Data Model (CDM)
 Berikut ini adalah CDM yang digunakan dalam website perpustakaan.
-![CDM](CDM.jpg)
+
+![CDM](Rev_CDM.jpg)
 
 ## Physical Data Model (PDM)
 Berikut ini adalah PDM yang digunakan dalam website perpustakaan.
-![PDM](PDM.jpg)
+
+![PDM](Rev_PDM.jpg)
 
 ## Class Diagram
 Berikut ini adalah Class Diagram yang digunakan dalam website perpustakaan.
+
 ![PDM](ClassDiagram.jpg)
 
 ## Fitur 
