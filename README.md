@@ -41,5 +41,7 @@ Berikut ini adalah Class Diagram yang digunakan dalam website perpustakaan.
 
 Berikut user testing scenario
 
+Catatan: Folder yang digunakan adalah folder Perpustakaan di dalam folder REVISI, namun pastikan yang dipindah ke htdocs hanya folder Perpustakaan nya saja. Jangan sampai didalam folder REVISI karena akan memengaruhi file location dalam code nya.
+
 ![Testing](Rev_TestScenario.jpg)
 
