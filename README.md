@@ -40,5 +40,5 @@ Berikut ini adalah Class Diagram yang digunakan dalam website perpustakaan.
 ## User Testing Scenario
 
 Berikut user testing scenario
-![Testing](Rev_TestScenario.jpg)
+
 
