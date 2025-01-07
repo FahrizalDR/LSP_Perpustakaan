@@ -1,5 +1,5 @@
 # Website Perpustakaan
-Website ini memungkinkan pengguna untuk melihat katalog buku, meminjam buku, dan mengembalikan buku. Untuk sisi admin dapat mengelola katalog buku, daftar anggota, dan mencatat transaksi peminjaman/pengembalian semua pengguna.
+Website ini memungkinkan admin dapat mengelola katalog buku, daftar anggota, memproses peminjaman dan pengembalian, serta mencatat transaksi peminjaman/pengembalian semua anggota.
 
 ## Conceptual Data Model (CDM)
 Berikut ini adalah CDM yang digunakan dalam website perpustakaan.
@@ -9,29 +9,33 @@ Berikut ini adalah CDM yang digunakan dalam website perpustakaan.
 Berikut ini adalah PDM yang digunakan dalam website perpustakaan.
 ![PDM](PDM.jpg)
 
-## Fitur
-1. **Login**
-   - Pengguna dapat login sesuai dengan statusnya, yaitu member/admin.
-   
-2. **Kelola Daftar Buku**
-   - Admin dapat melihat daftar buku, mencari buku, menambah buku, mengedit data buku, dan menghapus buku.
+## Class Diagram
+Berikut ini adalah Class Diagram yang digunakan dalam website perpustakaan.
+![PDM](ClassDiagram.jpg)
 
-3. **Kelola Daftar Anggota**
-   - Admin dapat melihat daftar anggota, mencari anggota, mengedit data anggota, dan menghapus anggota.
-   
-4. **Peminjaman Buku**
-   - Member dapat meminjam buku, melihat dan mencari riwayat transaksi peminjamannya sendiri.
-   - Admin dapat melihat dan mencari riwayat transaksi peminjaman semua pengguna dan statusnya(dipinjam/dikembalikan).
+## Fitur 
 
-6. **Pengembalian Buku**
-   - Member dapat mengembalikan buku, melihat dan mencari riwayat transaksi pengembaliannya sendiri.
-   - Admin dapat melihat dan mencari riwayat transaksi pengembalian semua pengguna
+. **Kelola Daftar Buku**
+   - Admin dapat melihat daftar buku, menambah buku, mengedit data buku, dan menghapus buku.
+
+. **Kelola Daftar Anggota**
+   - Admin dapat melihat daftar anggota, menambah anggota, mengedit data anggota, dan menghapus anggota.
+   
+. **Peminjaman Buku**
+   - Admin dapat melihat katalog buku dan memproses peminjaman buku yang ingin dipinjam oleh anggota.
+
+. **Pengembalian Buku**
+   - Admin dapat memproses pengembalian buku.
+
+.**Transaksi Pinjam**
+   - Admin dapat melihat riwayat transaksi peminjaman anggota.
+
+.**Transaksi Kembali**
+   - Admin dapat melihat riwayat transaksi pengembalian anggota.
+
 
 ## User Testing Scenario
-### Admin
-Berikut user testing scenario untuk Admin.
-![Admin Testing](AdminScenario.jpg)
 
-### Member
-Berikut user testing scenario untuk Member.
-![Member Testing](MemberScenario.jpg)
+Berikut user testing scenario
+![Testing](Rev_TestScenario.jpg)
+
