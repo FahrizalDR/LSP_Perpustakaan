@@ -15,22 +15,22 @@ Berikut ini adalah Class Diagram yang digunakan dalam website perpustakaan.
 
 ## Fitur 
 
-. **Kelola Daftar Buku**
+1. **Kelola Daftar Buku**
    - Admin dapat melihat daftar buku, menambah buku, mengedit data buku, dan menghapus buku.
 
-. **Kelola Daftar Anggota**
+2. **Kelola Daftar Anggota**
    - Admin dapat melihat daftar anggota, menambah anggota, mengedit data anggota, dan menghapus anggota.
    
-. **Peminjaman Buku**
+3. **Peminjaman Buku**
    - Admin dapat melihat katalog buku dan memproses peminjaman buku yang ingin dipinjam oleh anggota.
 
-. **Pengembalian Buku**
+4. **Pengembalian Buku**
    - Admin dapat memproses pengembalian buku.
 
-.**Transaksi Pinjam**
+5. **Transaksi Pinjam**
    - Admin dapat melihat riwayat transaksi peminjaman anggota.
 
-.**Transaksi Kembali**
+6. **Transaksi Kembali**
    - Admin dapat melihat riwayat transaksi pengembalian anggota.
 
 
